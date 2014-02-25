@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.CDAudio">
+    <Position X="0.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAABABAAAAQAEAEAAAQAAAQAAABAAACAAABAAAAAAA=</HashCode>
+      <FileName>CDAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Media">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUIAAgAAACAAAAAAAAgAAAAACAACg=</HashCode>
+      <FileName>Media.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Film">
+    <Position X="5.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAAQAEAAAAIAABAQAIABAAkQAAAAAAAAAAA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Form_Accueil" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAABBQAASAAQAGgQEAAEABEAACAAAARAA=</HashCode>
+      <FileName>Form_Accueil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Form_GestionCDAudio" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>iAEADAABICAAMDBFQCSIAAQCQAIABCUBBCAACAIAAAg=</HashCode>
+      <FileName>Form_GestionCDAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Form_GestionFilms" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>DAEADCgBACQAMBDEQACAABQCQACgACUCACAACAIAIRg=</HashCode>
+      <FileName>Form_GestionFilms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Form_GestionLivres" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>DAAAjAAFACAAsBBEQgiIQSQCQAAAACUIASAACAJAAAg=</HashCode>
+      <FileName>Form_GestionLivres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Livre">
+    <Position X="3" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAABAAEQEAAAAAAAACARAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Livre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Program" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.TypeMedia">
+    <Position X="8.5" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEIAAAAAAACAAAAAAAAAAAAICAAAA=</HashCode>
+      <FileName>TypeMedia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Properties.Resources" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEBAAAAABABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTI5_Gestion_bibliothèque_personnelle.Mediatheque">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>KACAAgAEQAAAAAAAAAAAAAAAAAAQAgAAAAABAAAAAAA=</HashCode>
+      <FileName>Mediatheque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PTI5_Gestion_bibliothèque_personnelle.ActionSelectionnee">
+    <Position X="8.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
